@@ -1,0 +1,13 @@
+code: simonetest-bundle
+description: This is the simonetest bundle
+
+components:
+  plugins:
+    - plugins/simonetest-plugin.yaml
+
+  widgets:
+    - ui/widgets/mysqltst/tableWidget/mysqltst-table-widget-descriptor.yaml
+    - ui/widgets/mysqltst/detailsWidget/mysqltst-details-widget-descriptor.yaml
+    - ui/widgets/mysqltst/formWidget/mysqltst-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
