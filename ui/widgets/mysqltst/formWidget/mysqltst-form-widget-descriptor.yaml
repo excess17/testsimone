@@ -1,0 +1,6 @@
+code: mysqltst-form-widget
+titles:
+  en: Mysqltst Form Widget
+  it: Mysqltst Form Widget
+group: free
+customUiPath: mysqltst-form-widget.ftl

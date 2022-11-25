@@ -1,0 +1,6 @@
+code: mysqltst-table-widget
+titles:
+  en: Mysqltst Table Widget
+  it: Mysqltst Table Widget
+group: free
+customUiPath: mysqltst-table-widget.ftl

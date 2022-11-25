@@ -1,0 +1,6 @@
+code: mysqltst-details-widget
+titles:
+  en: Mysqltst Details Widget
+  it: Mysqltst Details Widget
+group: free
+customUiPath: mysqltst-details-widget.ftl
